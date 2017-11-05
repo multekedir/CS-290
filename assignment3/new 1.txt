@@ -1,0 +1,21 @@
+<div class="modal hidden">  </div>
+                    <div class="content hidden">
+                             <span class="close_but">X</span>
+                            <div class="img_container">
+                                <img class="avatar" src="https://www.w3schools.com/howto/img_avatar2.png">                            
+                            </div>
+                            <div class="title">
+                                <h1>Multezem Kedir</h1>
+                                <h2>Software Dev</h2>
+                            </div>
+                            <div class="info">
+                            <ul>
+                                <li>Front End 09/31/2020</li>
+                                <li>Front End 09/31/2020</li>
+                                <li>Front End 09/31/2020</li>
+                                <li>Front End 09/31/2020</li>
+                                <li>Front End 09/31/2020</li>
+                            </ul>
+
+                        </div>
+                        </div>

@@ -2,7 +2,6 @@
 header {
     background-color: black;
     display: flex;
-    flex-wrap: nowrap;
 }
 
 body {
@@ -10,14 +9,14 @@ body {
 }
 
 .content {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Arial', sans-serif;
     font-size: 20px;
     display: flex;
 }
 
 
 .site-title, .site-title a {
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Roboto Slab', sans-serif;
     text-decoration: none;
     color: white;
     font-size: 90px;
@@ -31,10 +30,8 @@ body {
 
 .filter-container {
     border-width: 2px;
-    min-width: 240px;
-    max-width: 240px;
-    min-height: 430px;
-    max-height: 430px;
+    min-width: 230px;
+    height: max-content;
     background-color: #efefef;
     border-radius: 5px;
     padding: 20px;
